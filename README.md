@@ -1,7 +1,7 @@
 # UFC-Public-Power-BI-Report
 
 
-# **NYC Fast Taxis Company**
+
 ## **NYC Fast Taxis Company Power BI Report**
 
 ![](TaxiPhoto.jpg)
