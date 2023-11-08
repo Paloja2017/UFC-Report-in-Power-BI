@@ -9,7 +9,7 @@
 **Document Author**                                                   
 |Date |Author|Version|Role|                   
 |:----|:-----|:------------|:----|                                        
-|08/01/2023|Fatjan Paloja| 1.0| Power BI Consultant 
+|Nov/08/2023|Fatjan Paloja| 1.0| Power BI Consultant 
 ## Introduction
 
 Microsoft last couple of month has released a public preview of **Microsoft Fabric**. I as a Power BI developer and data analyst started to experiment with it and thought maybe it would be good to document the project on GitHub for my protfolio. This was the starting point, the project was quite simple, the main thing I wanted to experiment with was using the NYC Taxi Data database as sample data, this database has almost 160 milion rows, the connection as Direct Lake and PowerBI desktop mixed mode (Direct query to AS and Import)
