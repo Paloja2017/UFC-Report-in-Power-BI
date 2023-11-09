@@ -114,6 +114,7 @@ We are measuring these metrics: Number of events, Event details, Total Fights, T
 Contains total events and fight analysis by year, continent, country, weightclass, fight end type
  <br />
  ![](EventsCountry1.png)
+ ![](EventsCountryA.png)
 
  
 <br />
