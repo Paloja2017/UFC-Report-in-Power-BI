@@ -105,6 +105,9 @@ The navigation in the report is mainly two-level, but on some pages I have three
 ## Project Steps
 
 - Identification of data sources
+  https://vegas-odds.com/sports-data/ufc-fight-statistics-datasets/
+  https://en.wikipedia.org/wiki/List_of_UFC_events
+  https://www.ufc.com/events
 - Their extraction and purification
 - Data residency in One Drive for Business
 - Building the data model
