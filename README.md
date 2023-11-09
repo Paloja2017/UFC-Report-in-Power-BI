@@ -108,6 +108,8 @@ The navigation in the report is mainly two-level, but on some pages I have three
 https://vegas-odds.com/sports-data/ufc-fight-statistics-datasets/    
 https://en.wikipedia.org/wiki/List_of_UFC_events    
 https://www.ufc.com/events   
+These where the main sources of project data
+
 - Their extraction and purification
 - Data residency in One Drive for Business
 - Building the data model
