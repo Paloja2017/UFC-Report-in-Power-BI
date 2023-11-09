@@ -122,6 +122,11 @@ Contains total events and fight analysis by year, continent, country, weightclas
 Contains total events, fights, strike attempt vs strike landing, take down attempt vs take down made, finishes vs decisions, KO/TKO vs Submissions analysis by year, continent, country, weightclass, fight end type
 ![](EventYears2.png)
 
+<br />
+
+### UFC Events/Details
+Contains total list of events, fights by gender, fights by age group which maximum is age group of 30 years with 1247 fighters who fought in UFC, in table when you hover with cursor it opens a tooltip where you find additional inormation about event description, date and event image strike
+![](EventsList3.png)
 
 
 
