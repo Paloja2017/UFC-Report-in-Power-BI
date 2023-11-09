@@ -15,6 +15,7 @@
 
 A few years ago I was introduced to the IKIGAI concept of people in Okinawa and as a follower of the philosophy "absorb what is useful, reject what is useless and create your own" 🙂, it seemed to me an interesting visual representation of the reflection of the connections between profession and passion.
 Miyamoto Musashi (Author of Book of Five Rings) in one of his sayings says: "If you know the WAY broadly you will see it in everything" and being a passionate long-time practitioner of martial arts (hands and weapons) - the side of passion as well as profession Power BI Report Creator al Data Analyst - the passion side of the profession, I considered it as a combination - interesting connection between combat sports events, specifically UFC MMA Events in this case, as well as their analysis through the construction of a report in Power BI , where the results of the fights will be materialized in a way that tells the story in the best way.
+
 Considering that there is more than one way to climb the mountain, for the moment, at this time, this is my way of the moment that I saw fit to build this report.
 I say this because the possibilities of Power BI as a product are rapidly changing for the better, both superficially - in the visualization part as well as the content part, this makes us as creators try to keep up with the evolution of the product. Again from Musashi: "Determine that today you will overcome your self of the day before"
 ## Data
