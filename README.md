@@ -146,7 +146,7 @@ When you click with right button of mouse in prior page UFC Events/Fights Detail
 ### Fights Analysis/ End Type/ Years
 Contains types of fight finish - Finishes (KO/TKO & Submission), Decisions, Overturned and Disqualifications over the years. Also here when you hover you can see additional and more detailed information for that particular year.
 
-
+![](FightsAnalysis1.png)
 
 
 
