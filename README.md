@@ -117,25 +117,15 @@ Contains total events and fight analysis by year, continent, country, weightclas
 
 <br />
  ### UFC Events/Years
-- Created a new workspace named Fatjan Paloja Fabric_Test and selected a trial of Microsoft Fabric for 60 days.
-  <br />
-  <br />
- ![](Workspace_settings.png)
+ <br />
+  ![](EventYears2.png)
 
-- Created a lake house
-  <br />
-  <br />
- ![](LakeHouse.png)
-- Data source
-  <br />
-  Added new Data pipeline - TaxiDataPipeline_Directlake
-  <br />
-  <br />
-![](PipelineData.png)
-- Loaded to Delta table data preview
-  <br />
-  <br />
-  ![](DeltaTablePreview.png)
+
+
+
+
+
+
 
 - Linked a Pipeline to Outlook and Teams - on data refresh succes they sent a mesage you wrote beforehand, for example "Data is refreshed succesfully"
   <br />
