@@ -235,6 +235,6 @@ Contains the stats of two fighters which can be selected from green filters belo
  
 ## Conclusion
  <br />
-As we see from the data, trips reached maximum in 2015 and from there we have a decline with every year that passes. We have to analyze also some other data from other data sources and getting more and deeper insights about Sales Taxi Company.
-This project as I mentioned above was only to experiment with Microsoft Fabric also to showcase some of Power BI capabilities. 
+As we see from the data, we have analysed 646 events with 7,128 fights and different metrics to many dimension. I believe the report shows clear results and it is easy to navigate and understand.
+This project as I mentioned above was only to experiment with Microsoft Power BI also to showcase my Power BI capabilities as a creator and data analyst.
 
