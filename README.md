@@ -12,6 +12,7 @@
 |Nov/08/2023|Fatjan Paloja| 1.0| Power BI Consultant 
 ## Introduction
 ![](Ikigai.png)
+
 A few years ago I was notified of the IKIGAI concept of people in Okinava and as a follower of the philosophy "absorb what is useful, reject what is useless and create your own"🙂, I found it a visually interesting representation of the interconnections of the profession and the passion.
 Miyamoto Musashi (Author of Book of Five Rings) in one of his words says, "If you know the WAY broadly you will see it in everything" and being a passionate multi-year practitioner of the masters of fighting –the side of passion and by profession Power BI Report Creator al Data Analysit – the passion of the profession,   I considered it a combination - interesting interconnections between the fight sports events specifically UFC MMA Events in this case and analyzing them through the construction of a power bi report, where the results of the fights will materialize in order to tell the best story.
 Given that there is more than one way up the mountain, at the moment, at this time, this is my way of moment that I saw fit to construct this report. I say this because the power BI's products are changing rapidly for the better, both on the surface – the visualization part as well as the content part, which is why we as creators try to keep up with the evolution of the product.  "Determine that today you will overcome your self of the day before"
