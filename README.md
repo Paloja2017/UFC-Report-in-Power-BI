@@ -4,7 +4,7 @@
 
 ## **NYC Fast Taxis Company Power BI Report**
 
-![](UFC Main Image.png)
+![](UFCMainImage.jpg)
 ---
 **Document Author**                                                   
 |Date |Author|Version|Role|                   
