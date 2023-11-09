@@ -160,26 +160,15 @@ Contains KO/TKO finishes over the years and technique of that end fight over the
 Contain decomposition tree visual in which you can clearly see main technique of KO/TKO, you can drillthrough here to go to a detailed list of fight who ended with selected technique
 ![](FightsAnalysis3.png)
 
+<br />
 
+### Fights Analysis / Technique Details /Years
+Contains scatter chart who presents trends of end technique over the years in x axis cumulative wins and in y axis wins of that particular year
 
+![](FightsAnalysis4.png)
 
-  Connected Power BI desktop to Onelake data hub - LakeHouses preview and loaded data as Direct Query over AS and for calendar table I used SqlBI Bravo tool which has builded for me Calendar Table with DAX (You can use a Calendar Table builded in Dataflow Gen2 also). I created relationship between Calendar Table and Taxi data on Date columns
-  <br />
-  <br />
-![](DataModel.png)
-
-- Measures, Calculated Table and Field Parameters
-  <br />
-  I have used VertiPaq Analyzer to list the measures for showing here. The procedure is to open the DaxStudio in Power BI external tools, in advanced tab export metrics, then connect Vertipaq Analyzer with .vpax file.
-  <br />
-  <br />
-  ![](Measures.png)
-
-## Visualizations:
-
-  The report is single paged and intended for ease of use. We are measuring five metrics: Fare Amount, Average Trips Amount, Count of Trips, Tip Amount and Total Amount in single page - you can change the metrics in the slicer down right, also we have a slicer down left for selecting the years you want to analyze.
-When you click a particular metrics slicer down right, that BAN number which is measured is highlighted. For the color I have choose #7B88BF to be in harmony with the fictional company logo.
-  <br />
+ 
+  
 
   ![](GifTest.gif)
     <br />
