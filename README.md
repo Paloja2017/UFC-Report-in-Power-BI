@@ -204,7 +204,7 @@ Contain decomposition tree visual in which you can clearly see end fights by rou
 
 ### Fights Analysis / TopN Techniques by Round
 Contains top techniques 1,3,5,7,9,12 in values and percentages
-
+![](FightAnalysis10.png)
 
 
 
