@@ -26,16 +26,43 @@ Due to the best use of the canvas I have used the tooltip as well as when I want
 ## Statement
 
 Prompt:
-Fictive **Taxi** company wants to implement new **Microsoft Fabric** capabilities to their BI analysis. They want real time data analysis so we have agreed to use Lake House Delta tables as Direct Lake and PBI desktop Direct Query over AS and import as storage mode in Power BI.
+I as a multi-year-old Martial Artist and Power BI consultant wanted to build for myself a model of data on the fights that take place in UFC-MMA for my own curiosity in order to analyze the conclusions of the lessons of where they come from and which ones dominate. The options for building the report in BI are numerous because there are abundant data, though not complete. 
   
 ## BI Requirements
 
-Simulate the client **Taxi** Company requirements of measuring these metrics:
-- Fare Amount Value
-- Total Amount Value
-- Tip Amount Value
-- Count of trips
-- Average Trips Amount
+The requirements of the bi project were analyzing these metrics:
+- Number of events
+- Event details
+- Number of Fights
+- Number of Fights with KO/TKO
+- Number of Fights with Submission
+- Number of Fights with Decision – Unanimous, Split, Majority
+- Attempted Strikes vs. Strikes Made
+- Attempted Take Downs vs. Take Downs Made
+- Submission Attempt vs Submission Made
+- Significant Strikes
+- Target Strikest
+- The type of strike that ended the Fight
+- Type of Submission technique that ended the Fight
+- Number of Fighters
+All the above are as numbers and as percentages.
+
+All these metrics should be analyzed in these dimensions: 
+
+- Dim Calendar
+- Geographical Dim
+- Gender Dim
+- Know the type of war ending
+- Dim Grouping technique used
+- Know the details of the technique used
+- Dim Weight Category
+- Dim Execution Position
+- Dim Distances of execution
+- Dim Rundave
+- Dim War by title YES/NO
+- Dim Result (Win - Loss)
+
+
 
 These metrics will be compared on calendar base year, month, day.
 <br />
