@@ -150,10 +150,15 @@ Contains types of fight ends - Finishes (KO/TKO & Submission), Decisions, Overtu
 
 <br />
 
-### Fights Analysis / KO/TKO / Years
+### Fights Analysis / KO/TKO Overview
 Contains KO/TKO finishes over the years and technique of that end fight over the years. When you hover over the visual you can find additional and more detailed information about that specific technique.
 ![](FightsAnalysis2.png)
 
+<br />
+
+### Fights Analysis / KO/TKO Details
+Contain decomposition tree visual in which you can clearly see main technique of KO/TKO, you can drillthrough here to go to a detailed list of fight who ended with selected technique
+![](FightsAnalysis3.png)
 
 
 
