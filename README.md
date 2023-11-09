@@ -88,20 +88,6 @@ Most of the visualizations are native power bi visualizations, except for two th
 Tooltips were used intensively for the maximum use of the canvas, as well as for analyzing the details, I used the drillthrough where I wanted the details of the presentations, also in most of the visualizations, the drilldown is also present when I wanted to enter the dimensional hierarchy.
 The navigation in the report is mainly two-level, but on some pages I have three levels without need, as can be seen when interacting with the report.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Project Steps
 
 - Identification of data sources:    
@@ -110,7 +96,8 @@ https://en.wikipedia.org/wiki/List_of_UFC_events
 https://www.ufc.com/events   
 These where the main sources of project data
 
-- Their extraction and purification
+- Data extraction and purification
+I have used WebScrapper to extract and then ETL was performed with Power Query to clean the data
 - Data residency in One Drive for Business
 - Building the data model
 - Building calculations and formulas in DAX
