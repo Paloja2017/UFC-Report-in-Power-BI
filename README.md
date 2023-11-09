@@ -96,7 +96,7 @@ https://en.wikipedia.org/wiki/List_of_UFC_events
 https://www.ufc.com/events   
 These where the main sources of project data
 
-- Data extraction and purification     
+- Data extraction and purification:          
 I have used WebScrapper to extract and then ETL was performed with Power Query to clean the data
 - Data residency in One Drive for Business
 - Building the data model
