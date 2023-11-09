@@ -73,8 +73,7 @@ All these metrics should be analyzed in these dimensions:
 
 Bus Matrix :
 ![](BusMatrix.png)
-[![](https://github.com/Paloja2017/UFC-Public-Power-BI-Report/blob/main/Video1.mp4)](https://github.com/Paloja2017/UFC-Public-Power-BI-Report/assets/92805638/256c036b-e1cc-47ed-852a-cbff95446393)
-
+https://github.com/Paloja2017/UFC-Public-Power-BI-Report/assets/92805638/256c036b-e1cc-47ed-852a-cbff95446393
 
   
 ## Skills demonstrated
