@@ -111,7 +111,12 @@ We are measuring these metrics: Number of events, Event details, Total Fights, T
 
 ## Report Content
 ### UFC Events
+Contains total events and fight analysis by year, continent, country, weightclass, fight end type
+ <br />
 
+
+
+ 
 - Created a new workspace named Fatjan Paloja Fabric_Test and selected a trial of Microsoft Fabric for 60 days.
   <br />
   <br />
