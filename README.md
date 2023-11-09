@@ -1,8 +1,8 @@
-# UFC-Public-Power-BI-Report
+# UFC Power BI Report
 
 
 
-## **NYC Fast Taxis Company Power BI Report**
+## **Ultimate Fighting Championship Power BI Report**
 
 ![](UFCMainImage.jpg)
 ---
