@@ -178,6 +178,7 @@ Contains Submission finishes over the years and technique of that end fight over
 
 ### Fights Analysis / Submissions Overview
 Contain decomposition tree visual in which you can clearly see main technique of Submission, you can drillthrough here to go to a detailed list of fight who ended with selected technique
+
 ![](FightsAnalysis6.png)
 
 |Year|Trips_#|              
