@@ -71,7 +71,7 @@ All these metrics should be analyzed in these dimensions:
 - Dim Result (Win - Loss)
 
 Bus Matrix :
-![](Bus matrix.png)
+![](BusMatrix.png)
 
 These metrics will be compared on calendar base year, month, day.
 <br />
