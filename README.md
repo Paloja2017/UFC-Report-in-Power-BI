@@ -131,33 +131,22 @@ Contains total list of events, fights by gender, fights by age group which maxim
 <br />
 
 ### UFC Events/Fights Details Drillthrough
-When you click with right button of mouse in prior page UFC/Event Details it gives you an option to drillthrough to detailed list of fights of that event. Also here when you hover with cursor you have additional info about who is winner, who is loser, winning technique, fight time format, weightclass,round time fight finish, position.  
+When you click with right button of mouse in prior page UFC Event/Details it gives you an option to drillthrough to detailed list of fights of that event. Also here when you hover with cursor you have additional info about who is winner, who is loser, winning technique, fight time format, weightclass,round time fight finish, position.  
 ![](EventsDetails4.png)
 
 
+### UFC Events/Specific Fight Details Drillthrough
+When you click with right button of mouse in prior page UFC Events/Fights Details Drillthrough it gives you an option to drillthrough to specified fight of that event. Also here when you hover with cursor you have additional info about strike attemptes vs Strike made, Significant strike attempted vs significant strike made, strike target - head, body, leg and strikes position distance, clinch, ground.
 
 
 
-- Linked a Pipeline to Outlook and Teams - on data refresh succes they sent a mesage you wrote beforehand, for example "Data is refreshed succesfully"
-  <br />
-  <br />
-  ![](PipelinetoTeams.png)
-  <br />
-  <br />
-- On SQL Endpoint I created a View and added new date only column
-  <br />
-  <br />
-  ![](SQl_endpoint.png)
 
-- Model view of storage mode as Datalake
-  <br />
-  <br />
-   ![](DirectLakePicture.png)
-  <br />
-  <br />
 
-- Modeling
-  <br />
+
+
+
+
+
   Connected Power BI desktop to Onelake data hub - LakeHouses preview and loaded data as Direct Query over AS and for calendar table I used SqlBI Bravo tool which has builded for me Calendar Table with DAX (You can use a Calendar Table builded in Dataflow Gen2 also). I created relationship between Calendar Table and Taxi data on Date columns
   <br />
   <br />
