@@ -167,13 +167,12 @@ Contains scatter chart who presents trends of end technique over the years in x 
 
 ![](FightsAnalysis4.png)
 
- 
-  
+<br />
 
-  ![](GifTest.gif)
-    <br />
- ## Analysis:
-By analyzing seven years of data, we see that NYC Taxis Company had more than 153 milion trips in total
+### Fights Analysis / Submissions Overview
+Contains Submission finishes over the years and technique of that end fight over the years. When you hover over the visual you can find additional and more detailed information about that specific technique detail.  
+![](FightsAnalysis5.png)
+
 |Year|Trips_#|              
 |:----------|:----------|
 |2013   |2,421,622|
