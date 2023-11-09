@@ -90,15 +90,8 @@ The navigation in the report is mainly two-level, but on some pages I have three
 
 ## Project Steps
 
-- Identification of data sources:    
-https://vegas-odds.com/sports-data/ufc-fight-statistics-datasets/    
-https://en.wikipedia.org/wiki/List_of_UFC_events    
-https://www.ufc.com/events   
-These where the main sources of project data
-
+- Identification of data sources
 - Data extraction and purification:          
-I have used WebScrapper to extract and then ETL was performed with Power Query to clean the data
-![](PowerQuery.png)
 - Data residency in One Drive for Business
 - Building the data model
 - Building calculations and formulas in DAX
@@ -108,6 +101,12 @@ I have used WebScrapper to extract and then ETL was performed with Power Query t
 - The use of toltip for maximum use of the space of the canvas
 - The use of drillthrough and drilldown for maximum use of the canvas space
 - Refreshing them once a week - every Monday
+
+
+## Visualizations:
+
+  The report is single paged and intended for ease of use. We are measuring five metrics: Fare Amount, Average Trips Amount, Count of Trips, Tip Amount and Total Amount in single page - you can change the metrics in the slicer down right, also we have a slicer down left for selecting the years you want to analyze.
+When you click a particular metrics slicer down right, that BAN number which is measured is highlighted. For the color I have choose #7B88BF to be in harmony with the fictional company logo.
 
 - Created a new workspace named Fatjan Paloja Fabric_Test and selected a trial of Microsoft Fabric for 60 days.
   <br />
