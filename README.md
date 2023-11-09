@@ -33,10 +33,18 @@ I as a multi-year-old Martial Artist and Power BI consultant wanted to build for
 The requirements of the bi project were analyzing these metrics:
 - Number of events
 - Event details
-- Number of Fights
-- Number of Fights with KO/TKO
-- Number of Fights with Submission
-- Number of Fights with Decision – Unanimous, Split, Majority
+- Total Fights
+- Total Finishes with KO/TKO
+- Total Finishes with Submission
+- Total Fights with Decision – Unanimous, Split, Majority
+- Total Strike Attempt
+- Total Strike Made
+- Total Strike Significant
+- Total Take Down Attempt
+- Total Take Down Made
+- Total Finishes (KO/TKO + Submissions)
+- Total Decision (Unanimous + Split + Majority)
+- Total Fighters
 - Attempted Strikes vs. Strikes Made
 - Attempted Take Downs vs. Take Downs Made
 - Submission Attempt vs Submission Made
@@ -44,25 +52,26 @@ The requirements of the bi project were analyzing these metrics:
 - Target Strikest
 - The type of strike that ended the Fight
 - Type of Submission technique that ended the Fight
-- Number of Fighters
-All the above are as numbers and as percentages.
+
+All the above as numbers and as percentages.
 
 All these metrics should be analyzed in these dimensions: 
 
 - Dim Calendar
-- Geographical Dim
-- Gender Dim
-- Know the type of war ending
-- Dim Grouping technique used
-- Know the details of the technique used
-- Dim Weight Category
-- Dim Execution Position
-- Dim Distances of execution
-- Dim Rundave
-- Dim War by title YES/NO
+- Dim Geography
+- Dim Gender
+- Dim Finish Type
+- Dim Grouped Technique
+- Dim Technique Details
+- Dim Weight Class
+- Dim Position
+- Dim Executed From
+- Dim Rounds
+- Dim Title YES/NO
 - Dim Result (Win - Loss)
 
-
+Bus Matrix :
+![](UFCMainImage.jpg)
 
 These metrics will be compared on calendar base year, month, day.
 <br />
