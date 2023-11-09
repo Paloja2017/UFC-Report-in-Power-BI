@@ -9,7 +9,7 @@
 **Document Author**                                                   
 |Date |Author|Version|Role| Client|                  
 |:----|:-----|:------------|:----|:----|                                     
-|Nov/08/2023|Fatjan Paloja Power BI Report Creator| 1.0| Power BI Consultant | Fatjan Paloja Martial Art White Belt
+|Nov/08/2023|Fatjan Paloja Power BI Report Creator| 1.0| Power BI Consultant | Fatjan Paloja Martial Artist
 ## Introduction
 ![](Ikigai.png)
 
