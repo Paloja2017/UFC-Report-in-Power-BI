@@ -119,19 +119,19 @@ Contains total events and fight analysis by year, continent, country, weightclas
 <br />
 
 ### UFC Events/Years
-Contains total events, fights, strike attempt vs strike landing, take down attempt vs take down made, finishes vs decisions, KO/TKO vs Submissions analysis by year, continent, country, weightclass, fight end type
+Contains total events, fights, strike attempt vs strike landing, take down attempt vs take down made, finishes vs decisions, KO/TKO vs Submissions analysis by year, continent, country, weightclass, fight end type.  
 ![](EventYears2.png)
 
 <br />
 
 ### UFC Events/Details
-Contains total list of events, fights by gender, fights by age group which maximum is age group of 30 years with 1247 fighters who fought in UFC, in table when you hover with cursor it opens a tooltip where you find additional inormation about event description, event date and event image.
+Contains total list of events, fights by gender, fights by age group which maximum is age group of 30 years with 1247 fighters who fought in UFC, in table when you hover with cursor it opens a tooltip where you find additional inormation about event description, event date and event image.  
 ![](EventsList3.png)
 
 <br />
 
 ### UFC Events/Fights Details Drillthrough
-When you click with right button of mouse in prior page UFC/Event Details it gives you an option to drillthrough to detailed list of fights of that event. Also here when you hover with cursor you have additional info about who is winner, who is loser, winning technique, fight time format, weightclass,round time fight finish, position
+When you click with right button of mouse in prior page UFC/Event Details it gives you an option to drillthrough to detailed list of fights of that event. Also here when you hover with cursor you have additional info about who is winner, who is loser, winning technique, fight time format, weightclass,round time fight finish, position.  
 ![](EventsDetails4.png)
 
 
