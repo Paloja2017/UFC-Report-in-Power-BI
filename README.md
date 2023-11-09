@@ -211,7 +211,7 @@ Contains top techniques 1,3,5,7,9,12 in values and percentages
 
 ### Fighter Analysis / Fighters Country
 Contains detailed list of fighters sorted by z - a who has the most fights in career also bar chart with top 12 countries with most fighters
-
+![](FighterAnalysis1.png)
 
 
 
