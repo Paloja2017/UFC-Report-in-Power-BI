@@ -219,7 +219,10 @@ Contains detailed list of fighters sorted by z - a who has the most fights in ca
 Contains analysis of particular fighter just select the filters then you will see total fights, wins, losess in total, by years, by end technique using drill down, by rounds also you can go deeper using drillthrough to filtered total fights, wins or losses.
 ![](FighterAnalysis2.png)
 
+<br />
 
+### Fighter Analysis / Fighters Comparison
+Contains the stats of two fighters which can be selected from green filters below. These two filters filters only their side of fighter and the red filters filters all page. You can use this page report to compare two fighters and their performance.
 
 
 |Year|Trips_#|              
