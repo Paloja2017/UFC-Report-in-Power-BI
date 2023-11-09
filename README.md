@@ -7,9 +7,9 @@
 ![](UFCMainImage.jpg)
 ---
 **Document Author**                                                   
-|Date |Author|Version|Role|                   
-|:----|:-----|:------------|:----|                                        
-|Nov/08/2023|Fatjan Paloja| 1.0| Power BI Consultant 
+|Date |Author|Version|Role| Client|                  
+|:----|:-----|:------------|:----|:----|                                     
+|Nov/08/2023|Fatjan Paloja| 1.0| Power BI Consultant | Fatjan Paloja
 ## Introduction
 ![](Ikigai.png)
 
