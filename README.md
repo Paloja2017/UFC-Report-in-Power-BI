@@ -73,21 +73,11 @@ All these metrics should be analyzed in these dimensions:
 
 Bus Matrix :
 ![](BusMatrix.png)
-[![](BusMatrix.png)](https://github.com/Paloja2017/UFC-Public-Power-BI-Report/assets/92805638/256c036b-e1cc-47ed-852a-cbff95446393)
-[Test](https://github.com/Paloja2017/UFC-Public-Power-BI-Report/assets/92805638/256c036b-e1cc-47ed-852a-cbff95446393)
-
-
-Bus Matrix :
-![](BusMatrix.png)
-[![](BusMatrix.png)](https://github.com/Paloja2017/UFC-Public-Power-BI-Report/assets/92805638/256c036b-e1cc-47ed-852a-cbff95446393)
 [Test](https://github.com/Paloja2017/UFC-Public-Power-BI-Report/assets/92805638/256c036b-e1cc-47ed-852a-cbff95446393)
 
 
 
 
-
-
-  
 ## Skills demonstrated
 
 The project has been quite complex and challenging since the identification of the data that is complete, where I used Power Query to clean the data that was very dirty, web scraping on Wikipedia page and the UFC page as well as the use of GPT Chat for the needs during the progress of the project. Data modeling and DAX formulas where I used Tabular Editor 2 and 3 (especially C# macros).
