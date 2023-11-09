@@ -129,6 +129,7 @@ Contains total list of events, fights by gender, fights by age group which maxim
 ![](EventsList3.png)
 
 <br />
+
 ### UFC Events/Fights Details Drillthrough
 When you click with right button of mouse in prior page UFC/Event Details it gives you an option to drillthrough to detailed list of fights of that event. Also here when you hover with cursor you have additional info about who is winner, who is loser, winning technique, fight time format, weightclass,round time fight finish, position
 ![](EventsDetails4.png)
