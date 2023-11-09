@@ -9,7 +9,7 @@
 **Document Author**                                                   
 |Date |Author|Version|Role| Client|                  
 |:----|:-----|:------------|:----|:----|                                     
-|Nov/08/2023|Fatjan Paloja| 1.0| Power BI Consultant | Fatjan Paloja
+|Nov/08/2023|Fatjan Paloja Report Creator| 1.0| Power BI Consultant | Fatjan Paloja
 ## Introduction
 ![](Ikigai.png)
 
