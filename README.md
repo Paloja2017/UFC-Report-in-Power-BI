@@ -115,10 +115,13 @@ Contains total events and fight analysis by year, continent, country, weightclas
  <br />
  ![](EventsCountry1.png)
 
+ 
+
 <br />
- ### UFC Events/Years
- <br />
-  ![](EventYears2.png)
+
+### UFC Events/Years
+<br />
+![](EventYears2.png)
 
 
 
