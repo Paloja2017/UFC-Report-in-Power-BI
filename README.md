@@ -113,7 +113,7 @@ We are measuring these metrics: Number of events, Event details, Total Fights, T
 ### UFC Events
 Contains total events and fight analysis by year, continent, country, weightclass, fight end type
  <br />
- ![](Events_by_Country_1.png)
+ ![](Events_by_country_1.png)
 
 
  
