@@ -125,7 +125,7 @@ Contains total events, fights, strike attempt vs strike landing, take down attem
 <br />
 
 ### UFC Events/Details
-Contains total list of events, fights by gender, fights by age group which maximum is age group of 30 years with 1247 fighters who fought in UFC, in table when you hover with cursor it opens a tooltip where you find additional inormation about event description, date and event image strike
+Contains total list of events, fights by gender, fights by age group which maximum is age group of 30 years with 1247 fighters who fought in UFC, in table when you hover with cursor it opens a tooltip where you find additional inormation about event description, event date and event image.
 ![](EventsList3.png)
 
 
