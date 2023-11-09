@@ -186,10 +186,12 @@ Contain decomposition tree visual in which you can clearly see main technique of
 ### Fights Analysis / Submissions Details / Years
 Contains scatter chart who presents trends of end technique over the years in x axis cumulative wins and in y axis wins of that particular year
 
-![](FightsAnalysis7.png)
+![](FightAnalysis7.png)
 
+<br />
 
-
+### Fights Analysis / Finishes by round
+Contains analysis of finishes (KO/TKO and Submission) over the rounds of bout.
 
 
 
