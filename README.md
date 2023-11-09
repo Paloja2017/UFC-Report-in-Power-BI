@@ -1,4 +1,4 @@
-# UFC Events, Fights and Fighter Analysis
+# UFC Events, Fights and Fighters Analysis
 
 
 
