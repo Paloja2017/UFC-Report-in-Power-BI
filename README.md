@@ -173,6 +173,12 @@ Contains scatter chart who presents trends of end technique over the years in x 
 Contains Submission finishes over the years and technique of that end fight over the years. When you hover over the visual you can find additional and more detailed information about that specific technique detail. Also you can drilldown to visual for additional information.
 ![](FightsAnalysis5.png)
 
+<br />
+
+### Fights Analysis / Submissions Overview
+Contain decomposition tree visual in which you can clearly see main technique of Submission, you can drillthrough here to go to a detailed list of fight who ended with selected technique
+![](FightsAnalysis6.png)
+
 |Year|Trips_#|              
 |:----------|:----------|
 |2013   |2,421,622|
