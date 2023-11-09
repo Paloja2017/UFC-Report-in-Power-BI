@@ -198,13 +198,13 @@ Contains analysis of finishes (KO/TKO and Submission) over the rounds of bout.
 
 ### Fights Analysis / Finishes by Round Details
 Contain decomposition tree visual in which you can clearly see end fights by rounds, you can drillthrough here to go to a detailed list of fight who ended with selected round end
-![](FightAnalysis9.png)
+![](FightsAnalysis9.png)
 
 <br />
 
 ### Fights Analysis / TopN Techniques by Round
 Contains top techniques 1,3,5,7,9,12 in values and percentages
-![](FightAnalysis10.png)
+![](FightsAnalysis10.png)
 
 
 
