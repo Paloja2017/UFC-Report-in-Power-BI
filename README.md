@@ -73,14 +73,43 @@ All these metrics should be analyzed in these dimensions:
 Bus Matrix :
 ![](BusMatrix.png)
 
-These metrics will be compared on calendar base year, month, day.
-<br />
-_I havent gone to deeper analysis of hour, minute, most frequent hours of the day_
+
   
 ## Skills demonstrated
 
-As I mentioned the project is quite simple, some of the skills shown in this project are field parameters, card highlighting when same measure is clicked, UI appearance... Usage of field parameters was meant to use the same visual interface to measure different metrics. Of course we can apply drillthough to another page and use tooltips for additional information.
+The project has been quite complex and challenging since the identification of the data that is complete, where I used Power Query to clean the data that was very dirty, web scraping on Wikipedia page and the UFC page as well as the use of GPT Chat for the needs during the progress of the project. Data modeling and DAX formulas where I used Tabular Editor 2 and 3 (especially C# macros).
+Basic measurements as well as other measurements that are necessary and are presented specific to the project during the modeling process in a total of 225 complete measurements (counted in VertiPaq Analyzer) from functional measurements, measurements for automatic titles of visualizations, changes in color of visualizations, 4 columns added calculations and 3 calculation tables.
+Most of the visualizations are native power bi visualizations, except for two that I used html content5 and Image Viz for the presentation of imagelinks as photos.
+Tooltips were used intensively for the maximum use of the canvas, as well as for analyzing the details, I used the drillthrough where I wanted the details of the presentations, also in most of the visualizations, the drilldown is also present when I wanted to enter the dimensional hierarchy.
+The navigation in the report is mainly two-level, but on some pages I have three levels without need, as can be seen when interacting with the report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Project Steps
+
+- Identification of data sources
+- Their extraction and purification
+- Data residency in One Drive for Business
+- Building the data model
+- Building calculations and formulas in DAX
+- Field Parameters
+- Choice of navigation through the pages of the report
+- The choice of visualizations that we consider suitable for showing the story
+- The use of toltip for maximum use of the space of the canvas
+- The use of drillthrough and drilldown for maximum use of the canvas space
+- Refreshing them once a week - every Monday
 
 - Created a new workspace named Fatjan Paloja Fabric_Test and selected a trial of Microsoft Fabric for 60 days.
   <br />
