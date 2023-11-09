@@ -151,7 +151,7 @@ Contains types of fight ends - Finishes (KO/TKO & Submission), Decisions, Overtu
 <br />
 
 ### Fights Analysis / KO/TKO Overview
-Contains KO/TKO finishes over the years and technique of that end fight over the years. When you hover over the visual you can find additional and more detailed information about that specific technique.
+Contains KO/TKO finishes over the years and technique of that end fight over the years. When you hover over the visual you can find additional and more detailed information about that specific technique. Also you can drilldown to visual for more detailed information.
 ![](FightsAnalysis2.png)
 
 <br />
@@ -170,7 +170,7 @@ Contains scatter chart who presents trends of end technique over the years in x 
 <br />
 
 ### Fights Analysis / Submissions Overview
-Contains Submission finishes over the years and technique of that end fight over the years. When you hover over the visual you can find additional and more detailed information about that specific technique detail.  
+Contains Submission finishes over the years and technique of that end fight over the years. When you hover over the visual you can find additional and more detailed information about that specific technique detail. Also you can drilldown to visual for additional information.
 ![](FightsAnalysis5.png)
 
 |Year|Trips_#|              
