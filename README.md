@@ -181,6 +181,26 @@ Contain decomposition tree visual in which you can clearly see main technique of
 
 ![](FightsAnalysis6.png)
 
+<br />
+
+### Fights Analysis / Submissions Details / Years
+Contains scatter chart who presents trends of end technique over the years in x axis cumulative wins and in y axis wins of that particular year
+
+![](FightsAnalysis7.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 |Year|Trips_#|              
 |:----------|:----------|
 |2013   |2,421,622|
