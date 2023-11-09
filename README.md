@@ -190,11 +190,14 @@ Contains scatter chart who presents trends of end technique over the years in x 
 
 <br />
 
-### Fights Analysis / Finishes by round
+### Fights Analysis / Finishes by Round
 Contains analysis of finishes (KO/TKO and Submission) over the rounds of bout.
+![](FightAnalysis8.png)
 
+<br />
 
-
+### Fights Analysis / Finishes by Round Details
+Contain decomposition tree visual in which you can clearly see end fights by rounds, you can drillthrough here to go to a detailed list of fight who ended with selected round end
 
 
 
