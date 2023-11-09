@@ -98,6 +98,7 @@ These where the main sources of project data
 
 - Data extraction and purification:          
 I have used WebScrapper to extract and then ETL was performed with Power Query to clean the data
+![](PowerQuery.png)
 - Data residency in One Drive for Business
 - Building the data model
 - Building calculations and formulas in DAX
