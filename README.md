@@ -241,6 +241,6 @@ Contains the stats of two fighters which can be selected from green filters belo
  
 ## Conclusion
  <br />
-As we see from the data, we have analysed 646 events with 7,128 fights and different metrics to many dimension. I believe the report shows clear results and it is easy to navigate and understand.
+As we see from the data, we have analysed 646 events with 7,128 fights and different metrics to many dimension. I believe the report shows clear results and it is easy to navigate and understand who has the most advantage in particular years and which techniques dominate. In striking "Department" KO/TKO, Punches is the champion who has finishes rate of 70.25% ( To Head 97.68%, To Body 2.32%) and in Submission "Department", Choke is the champion who has Finishes rate of 77.92% (Rear naked Choke 49.45%, Guillotine Choke 23.13%, Arm Triangle Choke 9.05%...). We can see also that most fights end in Round 1 which 64.21% you have chance to knock out someone or get knocked out, 35.79% you have chance to submit someone or get sumbited...
 This project as I mentioned above was to experiment with Microsoft Power BI also to showcase my capabilities as a content creator for my portfolio.
 
