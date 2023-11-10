@@ -159,7 +159,7 @@ Contain decomposition tree visual in which you can clearly see main technique of
 
 <br />
 
-Drillthrough to Finishing Technique example
+Drillthrough to Finishing Technique example (Punches to Head)
 ![](FightsAnalysis11.png)
 
 <br />
