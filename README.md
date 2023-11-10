@@ -165,28 +165,28 @@ Contain decomposition tree visual in which you can clearly see main technique of
 <br />
 
 ### Fights Analysis / Technique Details /Years
-Contains scatter chart who presents trends of end technique over the years in x axis cumulative wins and in y axis wins of that particular year
+Contains scatter chart who presents trends of the end technique over the years, in x axis cumulative wins and in y axis wins of that particular year
 
 ![](FightsAnalysis4.png)
 
 <br />
 
 ### Fights Analysis / Submissions Overview
-Contains Submission finishes over the years and technique of that end fight over the years. When you hover over the visual you can find additional and more detailed information about that specific technique detail. Also you can drilldown to visual for additional information.
+Contains Submission finishes over the years and technique of that end fight over the years. When you hover over the visual you can find additional and more detailed information about that specific technique detail (tooltips). Also you can drilldown to visual for additional information.
 
 ![](FightsAnalysis5.png)
 
 <br />
 
-### Fights Analysis / Submissions Overview
-Contain decomposition tree visual in which you can clearly see main technique of Submission, you can drillthrough here to go to a detailed list of fight who ended with selected technique
+### Fights Analysis / Submissions Details
+Contain decomposition tree visual in which you can clearly see main technique of Submission, you can drillthrough here to go to a detailed list of fight who ended with particular technique
 
 ![](FightsAnalysis6.png)
 
 <br />
 
 ### Fights Analysis / Submissions Details / Years
-Contains scatter chart who presents trends of end technique over the years in x axis cumulative wins and in y axis wins of that particular year
+Contains scatter chart who presents trends of end technique over the years, in x axis cumulative wins and in y axis wins of that particular year.
 
 ![](FightAnalysis7.png)
 
@@ -199,13 +199,13 @@ Contains analysis of finishes (KO/TKO and Submission) over the rounds of bout.
 <br />
 
 ### Fights Analysis / Finishes by Round Details
-Contain decomposition tree visual in which you can clearly see end fights by rounds, you can drillthrough here to go to a detailed list of fight who ended with selected round end
+Contain decomposition tree visual in which you can clearly see end fights by rounds, you can drillthrough here to go to a detailed list of fight who ended with selected round.
 ![](FightsAnalysis9.png)
 
 <br />
 
 ### Fights Analysis / TopN Techniques by Round
-Contains top techniques 1,3,5,7,9,12 in values and percentages
+Contains top trendy techniques 1,3,5,7,9,12 in values and percentages. You can filter them by years, round, gender, weightclass.
 ![](FightsAnalysis10.png)
 
 <br />
