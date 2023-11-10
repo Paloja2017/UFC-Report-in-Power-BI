@@ -24,7 +24,7 @@ As an idea in the future, I have the completion of all events and fights by buil
 The way of completing this report has some inspirations (from other platforms) that have served as basic ideas for further construction while the navigation of the report is based on the inspiration from some reports that I have seen from Miguel Myers (from him I have seen two levels navigation buttons, I have expanded them up to three).
 Due to the best use of the canvas, I used the tooltips and when I wanted to present details that I considered reasonable, and also I used the drillthrough and drilldown ability in Power BI visuals.
 
-**_The purpose of this report is the presentation of my skills as a Data Analyst and Power bI Creator, as well as the reflection of the capacities of Power BI as BI software platform. The data is not my property, and this presentation of the report has no commercial purpose, even though the data represents the real fghts that took place (with some events as mentioned that are missing)_**
+**_The purpose of this report is the presentation of my skills as a Data Analyst and Power BI Creator, as well as the reflection of the capacities of Power BI as BI software platform. The data is not my property, and this presentation of the report has no commercial purpose, even though the data represents the real fghts that took place (with some events as mentioned that are missing)_**
 
 ## Statement
 
