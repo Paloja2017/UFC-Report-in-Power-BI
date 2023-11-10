@@ -27,8 +27,6 @@ Due to the best use of the canvas, I used the tooltips and when I wanted to pres
 **_The purpose of this report is the presentation of my skills as a Data Analyst and Power BI Creator, as well as the reflection of the capacities of Power BI as BI software platform. The data is not my property, and this presentation of the report has no commercial purpose, even though the data represents the real fghts that took place (with some events as mentioned that are missing)_**
 
 ## Statement
-
-Prompt:
 As a long-time martial artist and Power BI Report Creator, I wanted to build for myself a data model on the fights that took place in the UFC - MMA for my curiosity in order to analyze the results of the fights why they end in certain way and which type of fighter dominate. The possibilities for building a report in BI are numerous because there is abundant data, although not complete.
   
 ## BI Requirements
