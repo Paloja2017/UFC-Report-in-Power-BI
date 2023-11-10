@@ -146,7 +146,7 @@ When you land in UFC Events/Fights Details Drillthrough it gives you an option t
 <br />
 
 ### Fights Analysis/ End Type/ Years
-Contains types of fight ends - Finishes (KO/TKO & Submission), Decisions, Overturned and Disqualifications over the years. Also here when you hover you can see additional and more detailed information for that particular year.
+Contains types of fight ends - Finishes (KO/TKO & Submission), Decisions, Overturned and Disqualifications over the years. Also here when you hover your cursor you can see additional and more detailed information for that particular year (tooltips and drilldown).
 
 ![](FightsAnalysis1.png)
 
@@ -159,7 +159,7 @@ Contains KO/TKO finishes over the years and technique of that end fight over the
 <br />
 
 ### Fights Analysis / KO/TKO Details
-Contain decomposition tree visual in which you can clearly see main technique of KO/TKO, you can drillthrough here to go to a detailed list of fight who ended with selected technique
+Contain decomposition tree visual in which you can clearly see main technique of KO/TKO, you can drillthrough here to go to a detailed list of fight who ended with that particular technique
 ![](FightsAnalysis3.png)
 
 <br />
