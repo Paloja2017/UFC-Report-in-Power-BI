@@ -13,23 +13,23 @@
 ## Introduction
 ![](Ikigai.png)
 
-A few years ago I was introduced to the IKIGAI concept of people in Okinawa and as a follower of the philosophy "absorb what is useful, reject what is useless and create your own" 🙂, it seemed to me an interesting visual representation of the connections between profession and passion.
+A few years ago I was introduced to the IKIGAI concept of Okinawa people and as a follower of the philosophy "absorb what is useful, reject what is useless and create your own" 🙂, it seemed to me an interesting visual representation of the among others profession and passion.
 Miyamoto Musashi (Author of Book of Five Rings) in one of his sayings says: "If you know the WAY broadly you will see it in everything" and being a passionate long-time practitioner of martial arts (hands and weapons) - the side of passion / and Power BI Report Creator - the side of passion and profession, I considered it as an interesting combination between combat sports events, specifically UFC MMA Events in this case, as well as their analysis through the creation of a report in Power BI, where the results of the fights will be materialized in a way that tells the story in the best way.
 
 Considering that there is more than one way to climb the mountain, for the moment, at this time, this is my way of the moment that I saw to build this report.
 I say this because the possibilities of Power BI as a product are rapidly changing for the better, both in surface - in the visualization part as well as the content part, this makes us as creators try to keep up with the evolution of the product. Again from Musashi: "Determine that today you will overcome your self of the day before"
 ## Data
-The data was collected from several sources, first from VEGAS ODDS (there were csv files that for some reason are no longer available), Wikipedia (they were extracted by web scrapping) as well as from the UFC official website (through webscraping in this case the photos of the fighters ). The initial data from Vegas Odds is very dirty. With the use of Power Query I have prepared them for the data model. The initial purpose was that I considered these csv to be open to the public and the project was originally built so that every week we download new files from Vegas Ods and the report is automatically updated. Also, the built data model follows a Header/Detail table approach, calculating the reusability of the data I had. This is no longer available because that site no longer hosts the data. The data I have available represents the real data on the events held in the UFC from March 11 1994 to August 12 2023, that is, almost 30 years, which are 7,128 fights. According to my analysis of the data, these data are not all because some events are missing, something that can be seen if you compare the fights of any fighter from my report to the one on the Internet, but in any case, those that are available are super sufficient for the construction of a data model on which a report will be built analyzing events, events and fighters.
-As an idea in the future, I have the completion of all events and events by building an application in PowerApps or in Google AppSheet for input data, but it also depends on how much time I have available, always for myself and my curiosity.
+The data was collected from several sources, first from VEGAS ODDS (there were csv files that for some reason are no longer available), Wikipedia (they were extracted by web scrapping) as well as from the UFC official website (through webscraping in this case the photos of the fighters ). The initial data from VEGAS ODDS was very dirty. With the use of Power Query I have prepared them for the data model. The initial purpose was that I considered these csv to be open to the public and the project was originally built so that every week we download new files from VEGAS ODDS and the report is automatically updated. Also, the built data model follows a Header/Detail table approach, calculating on the reusability of the data I had. This is no longer available because that site no longer hosts the data. The data I have available represents the real data on the events held in the UFC from March 11 1994 to August 12 2023, that is almost 30 years, which are 7,128 fights. According to my analysis of the data, these data are not total fights because some events are missing, something that can be seen if you compare the fights of any fighter from my report to the one on the Internet, but in any case, those that are available are super sufficient for the construction of a data model on which a report will be built analyzing events, events and fighters.
+As an idea in the future, I have the completion of all events and fights by building an application in PowerApps or in Google AppSheet for input data, but it also depends on how much time I have available, always for myself and my curiosity.
 The way of completing this report has some inspirations (from other platforms) that have served as basic ideas for further construction while the navigation of the report is based on the inspiration from some reports that I have seen from Miguel Myers (from him I have seen two levels navigation buttons, I have expanded them up to three).
-Due to the best use of the canvas, I used the tooltip and when I wanted to present details that I considered reasonable, and also I used the drillthrough ability in Power BI.
+Due to the best use of the canvas, I used the tooltips and when I wanted to present details that I considered reasonable, and also I used the drillthrough and drilldown ability in Power BI visuals.
 
-**_The purpose of this report is the reflection of my skills as a data analyst and Power bi Creator in my portfolio, as well as the research of the capacities of power bi in the presentation of data in the form of a report approximately as a web page. The data is not my property, and this presentation of the report has no commercial purpose, even though the data represents the real fghts that took place (with some events as mentioned that are missing)_**
+**_The purpose of this report is the presentation of my skills as a Data Analyst and Power bI Creator for my portfolio, as well as the reflection of the capacities of Power BI as BI software platform. The data is not my property, and this presentation of the report has no commercial purpose, even though the data represents the real fghts that took place (with some events as mentioned that are missing)_**
 
 ## Statement
 
 Prompt:
-As a long-time martial artist and Power BI consultant, I wanted to build for myself a data model on the fights that take place in the UFC - MMA for my curiosity in order to analyze the results of the fights from which they end and which type of fighter dominate. The possibilities for building a report in BI are numerous because there is abundant data, although not complete.
+As a long-time martial artist and Power BI Content Creator, I wanted to build for myself a data model on the fights that took place in the UFC - MMA for my curiosity in order to analyze the results of the fights why they end in certain way and which type of fighter dominate. The possibilities for building a report in BI are numerous because there is abundant data, although not complete.
   
 ## BI Requirements
 
@@ -81,18 +81,19 @@ Bus Matrix :
 
 ## Skills demonstrated
 
-The project has been quite complex and challenging since the identification of the data that is complete, where I used Power Query to clean the data that was very dirty, web scraping on Wikipedia page and the UFC page as well as the use of GPT Chat for the needs during the progress of the project. Data modeling and DAX formulas where I used Tabular Editor 2 and 3 (especially C# macros).
-Basic measures and other measurements that are necessary specific to the project during the modeling process in a total of 225 complete measurements (counted in VertiPaq Analyzer) from functional measurements, measurements for automatic titles of visualizations, changes in color of visualizations, 4 Calculated columns and 3 calculated tables.
+The project has been quite complex and challenging from the start, the identification of the more detailed data sources was not easy, I had to took from different places, connect them together and clean using Power Query. I have used Web scraping on some sources and Chat GPT as well by the need during the progress of the project. For Data modeling and DAX formulas mostly I used Tabular Editor 2 and 3 (especially C# macros).
+Basic measures and other measurements that are necessary to specific project during the modeling process are in a total of 225 complete measurements (counted in VertiPaq Analyzer) from functional measurements, measurements for automatic titles of visualizations, color changes of visualizations, 4 Calculated columns and 3 calculated tables.
 Most of the visualizations are native power bi visualizations, except for two that I used HTML CONTENT 5 and IMAGE VIZ for the presentation of imagelinks as photos.
-Tooltips were used intensively for the maximum use of the canvas, as well as for analyzing the details, I used the drillthrough where I wanted the details of the presentations, also in most of the visualizations, the drilldown is also present when I wanted to enter the dimensional hierarchy.
+Tooltips were used intensively for the maximum use of the canvas, as well as for analyzing the details, I used the drillthrough where I wanted details of the presentations, also in most of the visualizations, the drilldown is also present when I wanted to enter the dimensional hierarchy.
 The navigation in the report is mainly two-level, but on some pages I have expanded to three levels when I saw reasonable, as can be seen when interacting with the report.
 
 ## Project Steps
 
-- Identify the users need, goals amd concerns
+- Identify the user need, goals and concerns
+- Map your activity
 - Identification of data sources
+- Data residency
 - Data extraction and purification:          
-- Data residency in One Drive for Business
 - Building the data model
 - Building calculations and formulas in DAX
 - Field Parameters
@@ -100,12 +101,12 @@ The navigation in the report is mainly two-level, but on some pages I have expan
 - The choice of visualizations that we consider suitable for showing the story
 - The use of toltip for maximum use of the space of the canvas
 - The use of drillthrough and drilldown for maximum use of the canvas space
-- Refreshing them once a week - every Monday
+- Refreshing once a week - every Monday
 
 
 ## Report Navigation and Visualizations
 
-The report is multi paged and intended for ease of use. You have multi layered buttons on the top that you would use to navigate to different report pages.
+The report is multi paged and intended for ease of use. You have multi layered buttons on the top that you use to navigate to different report page content.
 We are measuring these metrics: Number of events, Event details, Total Fights, Total Finishes with KO/TKO, Total Finishes with Submission, Total Fights with Decision – Unanimous, Split, Majority, Total Strike Attempt, Total Strike Made, Total Strike Significant, Total Take Down Attempt, Total Take Down Made, Total Finishes (KO/TKO + Submissions), Total Decision (Unanimous + Split + Majority), Total Fighters, Attempted Strikes vs. Strikes Made, Attempted Take Downs vs. Take Downs Made, Submission Attempt vs Submission Made, Significant Strikes, Target Strikes, Type of Finishing Strikes, Type of Finishing Submission. For the dominant color I have choose #8FD322. It is not in harmony with the UFC logo but I have liked the most.
 
 
