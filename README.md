@@ -158,6 +158,10 @@ Contain decomposition tree visual in which you can clearly see main technique of
 ![](FightsAnalysis3.png)
 
 <br />
+Drillthrough to Finishing Technique example
+![](FightsAnalysis11.png)
+
+<br />
 
 ### Fights Analysis / Technique Details /Years
 Contains scatter chart who presents trends of the end technique over the years, in x axis cumulative wins and in y axis wins of that particular year
