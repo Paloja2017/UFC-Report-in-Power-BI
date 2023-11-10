@@ -107,12 +107,12 @@ The navigation in the report is mainly two-level, but on some pages I have expan
 ## Report Navigation and Visualizations
 
 The report is multi paged and intended for ease of use. You have multi layered buttons on the top that you use to navigate to different report page content.
-We are measuring these metrics: Number of events, Event details, Total Fights, Total Finishes with KO/TKO, Total Finishes with Submission, Total Fights with Decision – Unanimous, Split, Majority, Total Strike Attempt, Total Strike Made, Total Strike Significant, Total Take Down Attempt, Total Take Down Made, Total Finishes (KO/TKO + Submissions), Total Decision (Unanimous + Split + Majority), Total Fighters, Attempted Strikes vs. Strikes Made, Attempted Take Downs vs. Take Downs Made, Submission Attempt vs Submission Made, Significant Strikes, Target Strikes, Type of Finishing Strikes, Type of Finishing Submission. For the dominant color I have choose #8FD322. It is not in harmony with the UFC logo but I have liked the most.
+We are measuring these metrics: Number of events, Event details, Total Fights, Total Finishes with KO/TKO, Total Finishes with Submission, Total Fights with Decision – Unanimous, Split, Majority, Total Strike Attempt, Total Strike Made, Total Strike Significant, Total Take Down Attempt, Total Take Down Made, Total Finishes (KO/TKO + Submissions), Total Decision (Unanimous + Split + Majority), Total Fighters, Attempted Strikes vs. Strikes Made, Attempted Take Downs vs. Take Downs Made, Submission Attempt vs Submission Made, Significant Strikes, Target Strikes, Type of Finishing Strikes, Type of Finishing Submission. For the dominant color I have choose #8FD322. It is not in harmony with the UFC logo but I have liked it the most.
 
 
 ## Report Content
 ### UFC Events/Country
-Contains total events and fight analysis by year, continent, country, weightclass, fight end type
+Contains total events and fights analysis by year, continent, country, weightclass, fight end type (finishes, finishes details, decision, decision details)
  <br />
  ![](EventsCountry1.png)
  ![](EventsCountryA.png)
@@ -121,7 +121,7 @@ Contains total events and fight analysis by year, continent, country, weightclas
 <br />
 
 ### UFC Events/Years
-Contains total events, fights, strike attempt vs strike landing, take down attempt vs take down made, finishes vs decisions, KO/TKO vs Submissions analysis by year, continent, country, weightclass, fight end type.  
+Contains total events, fights, strike attempt vs strike landing, take down attempt vs take down made, finishes vs decisions, KO/TKO vs Submissions analysis by year, continent, country, weightclass, gender, fight end type.  
 ![](EventYears2.png)
 
 <br />
@@ -133,13 +133,13 @@ Contains total list of events, fights by gender, fights by age group which maxim
 <br />
 
 ### UFC Events/Fights Details Drillthrough
-When you click with right button of mouse in prior page UFC Event/Details it gives you an option to drillthrough to detailed list of fights of that event. Also here when you hover with cursor you have additional info about who is winner, who is loser, winning technique, fight time format, weightclass,round time fight finish, position.  
+When you click with right button of mouse in prior page UFC Event/Details it gives you an option to drillthrough to detailed list of fights of that event. Also here (In tooltip) when you hover with cursor you have additional info about who is winner, who is loser, winning technique, fight time format, weightclass,round time fight finish, position.  
 ![](EventsDetails4.png)
 
 <br />
 
 ### UFC Events/Specific Fight Details Drillthrough
-When you click with right button of mouse in prior page UFC Events/Fights Details Drillthrough it gives you an option to drillthrough to specified fight of that event. Also here when you hover with cursor you have additional info about strike attemptes vs Strike made, Significant strike attempted vs significant strike made, strike target - head, body, leg and strikes position distance, clinch, ground.
+When you land in UFC Events/Fights Details Drillthrough it gives you an option to drillthrough to specified fight of that event. Also here when you hover with cursor you have additional info about strike attemptes vs Strike made, Significant strike attempted vs significant strike made, strike target - head, body, leg and strikes position distance, clinch, ground.
 
 ![](EventsDetails5.png)
 
