@@ -191,6 +191,9 @@ Contains scatter chart who presents trends of end technique over the years, in x
 ![](FightAnalysis7.png)
 
 <br />
+Drillthrough to Finishing technique ( Rear Naked Choke)
+![](FightsAnalysis12.png)
+<br />
 
 ### Fights Analysis / Finishes by Round
 Contains analysis of finishes (KO/TKO and Submission) over the rounds of bout.
