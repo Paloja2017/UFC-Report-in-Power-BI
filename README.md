@@ -117,6 +117,7 @@ Contains total events and fights analysis by year, continent, country, weightcla
 ### UFC Events/Years
 Contains total events, fights, strike attempt vs strike landing, take down attempt vs take down made, finishes vs decisions, KO/TKO vs Submissions analysis by year, continent, country, weightclass, gender, fight end type.  
 ![](EventYears2.png)
+![](UFCEventsTooltip.png)
 
 <br />
 
