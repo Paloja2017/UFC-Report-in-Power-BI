@@ -29,7 +29,7 @@ Due to the best use of the canvas, I used the tooltips and when I wanted to pres
 ## Statement
 
 Prompt:
-As a long-time martial artist and Power BI Content Creator, I wanted to build for myself a data model on the fights that took place in the UFC - MMA for my curiosity in order to analyze the results of the fights why they end in certain way and which type of fighter dominate. The possibilities for building a report in BI are numerous because there is abundant data, although not complete.
+As a long-time martial artist and Power BI Report Creator, I wanted to build for myself a data model on the fights that took place in the UFC - MMA for my curiosity in order to analyze the results of the fights why they end in certain way and which type of fighter dominate. The possibilities for building a report in BI are numerous because there is abundant data, although not complete.
   
 ## BI Requirements
 
