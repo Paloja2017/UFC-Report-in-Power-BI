@@ -184,6 +184,7 @@ Contain decomposition tree visual in which you can clearly see main technique of
 ![](FightsAnalysis6.png)
 
 <br />
+
 Drillthrough to Finishing technique ( Rear Naked Choke)
 ![](FightsAnalysis12.png)
 
