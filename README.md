@@ -158,6 +158,7 @@ Contain decomposition tree visual in which you can clearly see main technique of
 ![](FightsAnalysis3.png)
 
 <br />
+
 Drillthrough to Finishing Technique example
 ![](FightsAnalysis11.png)
 
