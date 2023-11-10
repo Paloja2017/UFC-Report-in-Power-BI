@@ -71,12 +71,6 @@ All these metrics should be analyzed in these dimensions:
 - Dim Title YES/NO
 - Dim Result (Win - Loss)
 
-Bus Matrix :
-![](BusMatrix.png)
-
-
-
-
 ## Skills demonstrated
 
 The project has been quite complex and challenging from the start, the identification of the more detailed data sources was not easy, I had to took from different places, connect them together and clean using Power Query. I have used Web scraping on some sources and Chat GPT as well by the need during the progress of the project. For Data modeling and DAX formulas mostly I used Tabular Editor 2 and 3 (especially C# macros).
