@@ -211,13 +211,13 @@ Contains top trendy techniques 1,3,5,7,9,12 in values and percentages. You can f
 <br />
 
 ### Fighter Analysis / Fighters Country
-Contains detailed list of fighters sorted by z - a who has the most fights in career also bar chart with top 12 countries with most fighters. Also in tooltip you can find a ton of information about win rate, los rate, strikes accuracy, submissions accuracy, takedowns accuracy, average strikes per round, average takedowns per round, status, first and last debut, last fight age, height, weight, reach, weight division.
+Contains detailed list of fighters sorted by z - a who has the most fights in career also bar chart with top 12 countries with most fighters. Also in tooltip you can find for a fighter a ton of information about win rate, los rate, strikes accuracy, submissions accuracy, takedowns accuracy, average strikes per round, average takedowns per round, status, first and last debut, last fight age, height, weight, reach, weight division.
 ![](FighterAnalysis1.png)
 
 <br />
 
 ### Fighter Analysis / Fighters Stats
-Contains analysis of particular fighter just select the filters then you will see total fights, wins, losess in total, by years, by end technique using drill down, by rounds also you can go deeper using drillthrough to filtered total fights, wins or losses.
+Contains analysis of particular fighter just select the filters then you will see total fights, wins, losess in total, by years, by end technique using drill down, by rounds also you can go deeper using drillthrough and drilldown to filtered total fights, wins or losses.
 ![](FighterAnalysis2.png)
 
 <br />
