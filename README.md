@@ -234,6 +234,10 @@ Contains the stats of two fighters which can be selected from green filters belo
 
 <br />
 
+### UFC Champions and Title Contenders Actual & Historical
+Contains a list of champions by tournament title and Title from 1994 to 08/132023
+![](FighterAnalysis5.png)
+
 ### Report Interaction Link
 
 [Report Interaction](https://app.powerbi.com/view?r=eyJrIjoiNDFkYjQ1MWEtODAwZS00ZDhkLTliMTgtMDQ0NDMyYzI1MDc4IiwidCI6ImIzMDFhNzU5LTgzNmUtNDY4OS1iMzg5LThjMWU0ZTc1NWRjZCIsImMiOjl9&pageName=ReportSection99f5c648835745ec5eb7)
